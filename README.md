@@ -2,9 +2,9 @@
 
 ### Hey, it's David! Here you will find a part of myself, from my very first code to my latest project! Hope you enjoy it!
 
-### Data Courses 
+### Data Courses:
 
-[TokioSchool](https://https://github.com/DavidGonzalo92/CursoPythonTokioSchool/) Course Data Analyst
+[TokioSchool](https://https://github.com/DavidGonzalo92/CursoPythonTokioSchool) Course Data Analyst
 
 # Languages & Tools
 
