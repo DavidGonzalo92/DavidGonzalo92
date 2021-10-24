@@ -20,5 +20,5 @@
 
 ### Contact: 
 [![Linkedin Badge](https://img.shields.io/badge/-David_Ejea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/david-ejea-48b17b151/)](https://www.linkedin.com/in/david-ejea/)
-[![Gmail Badge](https://img.shields.io/badge/-david.ejea.carbonell.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.ejea.carbonell.com)](mailto:david.ejea.carbonell@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-david.ejea.carbonell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.ejea.carbonell@gmail.com)](mailto:david.ejea.carbonell@gmail.com)
 
