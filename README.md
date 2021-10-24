@@ -4,7 +4,7 @@
 
 ### Data Courses:
 
-[TokioSchool](https://https://github.com/DavidGonzalo92/CursoPythonTokioSchool) Course Data Analyst
+[TokioSchool](https://github.com/DavidGonzalo92/CursoPythonTokioSchool) Course Data Analyst
 
 # Languages & Tools
 
