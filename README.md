@@ -4,7 +4,7 @@
 
 ### Data Courses:
 
-[TokioSchool](https://github.com/DavidGonzalo92/CursoPythonTokioSchool) Course Data Analyst
+[TokioSchool](https://github.com/DavidGonzalo92/CursoPythonTokioSchool) Curso en español de analista de datos.
 
 # Languages & Tools
 
